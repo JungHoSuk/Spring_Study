@@ -1,7 +1,6 @@
-# Spring_Study
-Spring 공부 내용 정리
+# Spring 공부 내용 정리
 
-Java와 다르게 Spring 공부 내용은 하나의 Readme 파일에 정리하였습니다.
+Java와 다르게 Spring 공부 내용은 하나의 Readme 파일에 정리하였습니다:blush:
 
 # 1. 프레임워크
 - 뼈대나 근간을 이루는 코드들의 묶음.<br>
